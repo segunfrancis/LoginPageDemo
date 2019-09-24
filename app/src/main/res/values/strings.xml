@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login Page Demo</string>
+    <string name="email">Email</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="password_icon">Password Icon</string>
+    <string name="password">Password</string>
+    <string name="rider_image">Rider Image</string>
+    <string name="login">Login</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="social_media">Login by social media</string>
+    <string name="or">Or</string>
+    <string name="password_recovery">Forgot Password?</string>
+    <string name="register">Register</string>
+</resources>
